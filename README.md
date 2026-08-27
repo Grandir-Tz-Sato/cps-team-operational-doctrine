@@ -23,6 +23,8 @@ Its goal is to create a team that can:
 * redistribute work without relying on heroics
 * improve its own operating model through feedback
 
+CPS is intended to be used, adapted, discussed, and improved in real-world environments.
+
 ---
 
 ## What Problem Does CPS Solve?
@@ -519,3 +521,12 @@ Contributions, criticism, field reports, and alternative models are welcome.
 > A sustainable team does not depend on people continuously exceeding their limits.
 >
 > It depends on making roles, capacity, decisions, and risks visible enough to act before failure occurs.
+
+## License
+
+CPS Team Operational Doctrine is licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to share and adapt this work, including for commercial purposes, provided that appropriate credit is given.
+
+See [LICENSE](./LICENSE) for the full license text.
